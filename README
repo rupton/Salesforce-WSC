@@ -1,1 +1,2 @@
 com.sforce.ws.tools.wsdl <wsdl location> <dest jar name>
+also make sure to add <dest jar name> and wsc-XX.jar to build path
